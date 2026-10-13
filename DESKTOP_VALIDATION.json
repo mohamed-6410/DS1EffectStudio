@@ -1,0 +1,29 @@
+{
+  "ready": true,
+  "runtime": "155.0.4283.45",
+  "url": "http://127.0.0.1:5187/",
+  "message": {
+    "type": "studio-ready",
+    "effect": "f0000093",
+    "layers": 7
+  },
+  "checks": [
+    "WinForms app launched",
+    "WebView2 initialized",
+    "Local editor navigation succeeded",
+    "Editor ready with 14 render layers",
+    "Checkbox/Ctrl/Shift range selection",
+    "Batch movement of two visual layers",
+    "Two-layer 45-degree rotation export independently read",
+    "Empty-axis constant override round-trip",
+    "ModelID 904 assignment and 90-degree Z rotation independently read",
+    "Scalar keyframe offsets preserve animation shape"
+  ],
+  "smoothPreview": {
+    "passed": true,
+    "oldSceneKeptWhileLoading": true,
+    "cameraRefitsDuringEdit": 0,
+    "playbackPreserved": true,
+    "layerVisibilityPreserved": true
+  }
+}

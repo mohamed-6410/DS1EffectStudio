@@ -1,0 +1,209 @@
+{
+  "archives": 29,
+  "effects": 4024,
+  "textures": 580,
+  "models": 324,
+  "roundtrips": 4024,
+  "byteMatches": 138,
+  "types": {
+    "ClusterAppearanceBillboardActionData71": 5565,
+    "ClusterEmitterConeActionData28": 3204,
+    "ClusterMovementAccelerationActionData55": 5853,
+    "ParticleAppearanceTracerActionData40": 257,
+    "ClusterEmitterSphereActionData31": 1531,
+    "Particle3DActionData108": 1566,
+    "ClusterEmitterBoxActionData32": 1813,
+    "ClusterMovementPartialFollowActionData105": 796,
+    "ClusterAppearanceMultiTexBillboardActionData70": 572,
+    "ClusterMovementWobblingActionData84": 1190,
+    "ClusterEmitterCircleActionData30": 1284,
+    "ParticleAppearanceDistortionActionData43": 177,
+    "ParticleAppearanceRadialBlurActionData107": 71,
+    "ClusterAppearancePointSpriteActionData27": 22,
+    "FXActionData66": 114,
+    "ParticleAppearanceBillboardActionData59": 114,
+    "ClusterEmitterSquareActionData29": 7,
+    "FXActionData61": 334
+  },
+  "formats": {
+    "DXT5": 215,
+    "DXT1": 365
+  },
+  "errors": [],
+  "report": [
+    {
+      "name": "FRPG_SfxBnd_c3471.ffxbnd",
+      "effects": 46,
+      "textures": 8,
+      "models": 4
+    },
+    {
+      "name": "FRPG_SfxBnd_c4100.ffxbnd",
+      "effects": 17,
+      "textures": 6,
+      "models": 6
+    },
+    {
+      "name": "FRPG_SfxBnd_c4500.ffxbnd",
+      "effects": 26,
+      "textures": 5,
+      "models": 5
+    },
+    {
+      "name": "FRPG_SfxBnd_c4510.ffxbnd",
+      "effects": 24,
+      "textures": 2,
+      "models": 0
+    },
+    {
+      "name": "FRPG_SfxBnd_CommonEffects.ffxbnd",
+      "effects": 1456,
+      "textures": 222,
+      "models": 92
+    },
+    {
+      "name": "FRPG_SfxBnd_m10.ffxbnd",
+      "effects": 51,
+      "textures": 3,
+      "models": 1
+    },
+    {
+      "name": "FRPG_SfxBnd_m10_00.ffxbnd",
+      "effects": 167,
+      "textures": 13,
+      "models": 10
+    },
+    {
+      "name": "FRPG_SfxBnd_m10_01.ffxbnd",
+      "effects": 206,
+      "textures": 15,
+      "models": 7
+    },
+    {
+      "name": "FRPG_SfxBnd_m10_02.ffxbnd",
+      "effects": 41,
+      "textures": 35,
+      "models": 22
+    },
+    {
+      "name": "FRPG_SfxBnd_m10_03.ffxbnd",
+      "effects": 42,
+      "textures": 36,
+      "models": 23
+    },
+    {
+      "name": "FRPG_SfxBnd_m11.ffxbnd",
+      "effects": 180,
+      "textures": 20,
+      "models": 12
+    },
+    {
+      "name": "FRPG_SfxBnd_m12.ffxbnd",
+      "effects": 177,
+      "textures": 19,
+      "models": 17
+    },
+    {
+      "name": "FRPG_SfxBnd_m12_00.ffxbnd",
+      "effects": 17,
+      "textures": 15,
+      "models": 6
+    },
+    {
+      "name": "FRPG_SfxBnd_m12_01.ffxbnd",
+      "effects": 157,
+      "textures": 32,
+      "models": 19
+    },
+    {
+      "name": "FRPG_SfxBnd_m13.ffxbnd",
+      "effects": 165,
+      "textures": 10,
+      "models": 3
+    },
+    {
+      "name": "FRPG_SfxBnd_m13_00.ffxbnd",
+      "effects": 70,
+      "textures": 4,
+      "models": 3
+    },
+    {
+      "name": "FRPG_SfxBnd_m13_01.ffxbnd",
+      "effects": 50,
+      "textures": 2,
+      "models": 2
+    },
+    {
+      "name": "FRPG_SfxBnd_m13_02.ffxbnd",
+      "effects": 44,
+      "textures": 4,
+      "models": 5
+    },
+    {
+      "name": "FRPG_SfxBnd_m14.ffxbnd",
+      "effects": 191,
+      "textures": 34,
+      "models": 15
+    },
+    {
+      "name": "FRPG_SfxBnd_m14_00.ffxbnd",
+      "effects": 34,
+      "textures": 1,
+      "models": 4
+    },
+    {
+      "name": "FRPG_SfxBnd_m14_01.ffxbnd",
+      "effects": 187,
+      "textures": 5,
+      "models": 12
+    },
+    {
+      "name": "FRPG_SfxBnd_m15.ffxbnd",
+      "effects": 41,
+      "textures": 3,
+      "models": 2
+    },
+    {
+      "name": "FRPG_SfxBnd_m15_00.ffxbnd",
+      "effects": 59,
+      "textures": 8,
+      "models": 10
+    },
+    {
+      "name": "FRPG_SfxBnd_m15_01.ffxbnd",
+      "effects": 154,
+      "textures": 7,
+      "models": 6
+    },
+    {
+      "name": "FRPG_SfxBnd_m16.ffxbnd",
+      "effects": 136,
+      "textures": 27,
+      "models": 14
+    },
+    {
+      "name": "FRPG_SfxBnd_m17.ffxbnd",
+      "effects": 154,
+      "textures": 11,
+      "models": 17
+    },
+    {
+      "name": "FRPG_SfxBnd_m18.ffxbnd",
+      "effects": 74,
+      "textures": 5,
+      "models": 2
+    },
+    {
+      "name": "FRPG_SfxBnd_m18_00.ffxbnd",
+      "effects": 39,
+      "textures": 2,
+      "models": 2
+    },
+    {
+      "name": "FRPG_SfxBnd_m18_01.ffxbnd",
+      "effects": 19,
+      "textures": 1,
+      "models": 3
+    }
+  ]
+}

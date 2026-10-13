@@ -1,0 +1,36 @@
+{
+  "ffxCompiled": 4024,
+  "previewCompilerErrors": [],
+  "renderLayers": 9056,
+  "fsbBanks": 279,
+  "fsbSamples": 7580,
+  "fevEvents": 21293,
+  "audioParseWarnings": [],
+  "eventWaveReferences": 34923,
+  "missingWaveReferences": 41,
+  "missingBanks": [
+    "frpg_c2010.fsb",
+    "frpg_c2020.fsb"
+  ],
+  "checks": [
+    "Native FLVER import",
+    "Single-texture PC TPF import",
+    "DDS-to-TPF import",
+    "Independent BND3 reread and resource verification",
+    "Native timing delay/duration export",
+    "Native action-75 sound insertion and reread",
+    "Original FFX graph and checksum unchanged",
+    "FSB sample WAV decode",
+    "Invalid asset/resource-ID rejection",
+    "Audio path traversal rejection",
+    "Browser layer move/resize via keyboard",
+    "Browser texture file chooser and assignment",
+    "Browser sound audition",
+    "Browser FFX export and Undo",
+    "Native infinite preset on finite effect 80",
+    "Group labels consistent across native call containers",
+    "Group labels stable after sound insertion",
+    "Browser group labels in timeline and detailed emitter/movement selector"
+  ],
+  "nativeRuntimeInGameVerified": false
+}
